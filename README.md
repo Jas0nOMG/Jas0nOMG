@@ -17,6 +17,6 @@ I am an undergraduate automation student from the Engineering Faculty of UAQ.
 * **Powermeter:** Designed with a microcontroller.
 
 ## 🏗 Current Projects
-* **Parkable:** (Tu descripción aquí)
+* **Parkable:** 
 * **Control Experiments:** Analogic and digital control of classic experiments.
 * **System Identification:** Sparse identification of the dynamics of linear DC motors and chaotic circuits (Chua's).

@@ -1,26 +1,22 @@
-## Hi there iam Jas0nOMG i am an  undergraduate automation student from the engineering faculty of UAQ.
+## 🚀 Hi there, I'm Jas0nOMG  
+I am an undergraduate automation student from the Engineering Faculty of UAQ.
 
-##Interests
-*Machine Learning 
-*Sparse Identification of nonlinear Dynamics
-*Electronics
-*Classic and modern Control theory
-*Instrumentation
-*Applied Fourier Analysis
+## 🎯 Interests
+* Machine Learning
+* Sparse Identification of Nonlinear Dynamics (SINDy)
+* Electronics
+* Classic and Modern Control Theory
+* Instrumentation
+* Applied Fourier Analysis
 
-##Skills
+## 🛠 Skills
+* **Programming:** C++, MATLAB, Python, VHDL
 
-*Programming in C++,Matlab,Python,vhdl
-##Projects that i made
-*Implementation of a 64 points FFT-IFFT radix-2 algorithm in FPGA for DSP
-*Powermeter with microcontroller
+## 📂 Projects I've made
+* **FFT-IFFT Implementation:** 64 points radix-2 algorithm in FPGA for DSP.
+* **Powermeter:** Designed with a microcontroller.
 
-##Current projects
-*Parkable
-*Analogic and digital control of classic experiments
-*Sparse identification of the dynamics of linear dc motors, and chaotics circuits(chua's)
-
-
-
-
-
+## 🏗 Current Projects
+* **Parkable:** (Tu descripción aquí)
+* **Control Experiments:** Analogic and digital control of classic experiments.
+* **System Identification:** Sparse identification of the dynamics of linear DC motors and chaotic circuits (Chua's).
